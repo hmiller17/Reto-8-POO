@@ -1,0 +1,40 @@
+{
+    "Beverages": [
+        {
+            "name": "Coca Cola",
+            "price": 5,
+            "descuento": 5,
+            "size": "Mediano"
+        },
+        {
+            "name": "Coca Cola",
+            "price": 5,
+            "descuento": 5,
+            "size": "Mediano"
+        },
+        {
+            "name": "Coca Cola",
+            "price": 5,
+            "descuento": 5,
+            "size": "Mediano"
+        },
+        {
+            "name": "Coca Cola",
+            "price": 5,
+            "descuento": 5,
+            "size": "Mediano"
+        },
+        {
+            "name": "Coca Cola",
+            "price": 5,
+            "descuento": 5,
+            "size": "Mediano"
+        },
+        {
+            "name": "Coca Cola",
+            "price": 5,
+            "descuento": 5,
+            "size": "Mediano"
+        }
+    ]
+}
